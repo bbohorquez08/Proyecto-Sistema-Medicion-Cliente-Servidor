@@ -1,0 +1,12 @@
+co\unicauca\sistemamedicion\dominio\Actuador.class
+co\unicauca\sistemamedicion\dominio\ItemMedicionElemento.class
+co\unicauca\sistemamedicion\servidor\servicio\ServicioItemMedicion.class
+co\unicauca\sistemamedicion\dominio\SensorCamara.class
+co\unicauca\sistemamedicion\dominio\IitemMedicion.class
+co\unicauca\sistemamedicion\servidor\servicio\ServicioMedicion.class
+co\unicauca\sistemamedicion\dominio\FabricaItemMedicion.class
+co\unicauca\sistemamedicion\dominio\Sensor.class
+co\unicauca\sistemamedicion\servidor\acceso\IClienteItemMedicionRepositorio.class
+co\unicauca\sistemamedicion\servidor\acceso\ClienteItemMedicionRepositorioImplArchivos.class
+co\unicauca\sistemamedicion\servidor\infra\SistemaMedicionServidorSocket.class
+co\unicauca\sistemamedicion\servidor\app\SistemaMedicionApp.class

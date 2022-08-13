@@ -1,0 +1,12 @@
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\servidor\servicio\ServicioMedicion.java
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\dominio\ItemMedicionElemento.java
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\servidor\acceso\IClienteItemMedicionRepositorio.java
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\servidor\app\SistemaMedicionApp.java
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\dominio\FabricaItemMedicion.java
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\dominio\IitemMedicion.java
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\dominio\Sensor.java
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\servidor\acceso\ClienteItemMedicionRepositorioImplArchivos.java
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\servidor\infra\SistemaMedicionServidorSocket.java
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\dominio\Actuador.java
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\dominio\SensorCamara.java
+D:\repositorios\netbeans\Proyecto-sistema-medicion\sistemaMedicionServidor\src\main\java\co\unicauca\sistemamedicion\servidor\servicio\ServicioItemMedicion.java
